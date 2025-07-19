@@ -1,0 +1,15 @@
+#feishu
+feishu_app_id: cli_a8fe132caedd500e
+feishu_app_secret: IS14lZXLAW3IqJlNsocUvfjZb5H8foq4
+#dify
+dify_api_key: app-iyCQ9DWdh8ZJsUbQUKBpasZ3
+dify_base_url: https://dify.jintachaxun.com/v1
+#redis
+redis_addr: 1.94.107.190:6379
+redis_pass: JinTa8888
+redis_db: 4
+
+#测试
+#dify_api_key: app-jbq2AAdK7mECf91N865hzbp5
+#dify_base_url: http://192.168.1.119/v1
+
